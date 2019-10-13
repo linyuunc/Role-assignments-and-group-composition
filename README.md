@@ -1,11 +1,11 @@
 # Role-assignment
 # Great article  **Literature review of roles applied in CSCL** 
 Citation: 
-https://reader.elsevier.com/reader/sd/pii/S074756320900137X?token=FD7E9C650ED79E81B218D98C40E206BB708C16BCBA63A325D42A68C4AC0BB6FD326E2E4C0AD04347CDA2A2EE582A876B 
+* https://reader.elsevier.com/reader/sd/pii/S074756320900137X?token=FD7E9C650ED79E81B218D98C40E206BB708C16BCBA63A325D42A68C4AC0BB6FD326E2E4C0AD04347CDA2A2EE582A876B 
 
-[Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
-[Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
-[Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+[Role1](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%201%20CSCL%20roles.png)
+[Roles in 3 levels](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%202--%20roles%20in%203%20different%20levels.png)
+[Participative Stances](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%203--%20CSCL%20eight%20participative%20stances.png)
 
 **1. In Chen et al (2012)**
 
@@ -68,11 +68,11 @@ This is mentioned in Citation:
 https://journals.sagepub.com/doi/pdf/10.1177/1046496403260843 
 
 **8. Another set of roles proposed by IBM researchers of Algebra Jam**
-![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+![IBM](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/IBM%20Algebra%20Jam%20roles.png)
 
 **9. The conflict of emergent roles and scripted roles in CSCL**
 Citation:https://www.sciencedirect.com/science/article/pii/S0747563209001368 
-![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+![Emergent and scripted roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/differences%20between%20emergent%20and%20scripted%20roles.png)
 
 **10. Analyzing roles of individuals in group-group collaboration process by Stahl et al (2014)**
 Roles as a group process. Categories are computed from network analysis of blogging communities 
@@ -88,18 +88,18 @@ https://link.springer.com/content/pdf/10.1007%2Fs11412-014-9204-9.pdf
 **11. Designing a role structure to engage students in computer-supported collaborative learning**
 
 Citation: https://reader.elsevier.com/reader/sd/pii/S1096751614000669?token=9507885E28D4746D9294DAB57C99D0F43429CC09958AA98494A5BFC9C1FBC6AC764F7631311834A2809FEBED40B560A3
-![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+![Design a role structure](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/design%20a%20role%20structure%20Gu%20et%20l..png)
 
 **12. Scripted role in teacher training** 
 Citation: https://link.springer.com/content/pdf/10.1007%2Fs11412-011-9108-x.pdf
-![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+![Teacher training](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/Scripted%20role%20in%20teacher%20training.png)
 
 
 # Group Composition 
 
 ### The relationship of group size and group roles (pic)
 Citation: http://journals.equinoxpub.com/CALICO/article/view/23719/19724
-![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
+![Group size and group roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/group%20size%20and%20group%20roles.png)
 
 Citation: 
 http://journals.equinoxpub.com/CALICO/article/view/23719/19724
@@ -114,13 +114,12 @@ effects of structured collaboration on average-ability students’ achievement, 
 
 Citation: https://www.sciencedirect.com/science/article/pii/S0361476X06000233
 
-## Other interesting studies Mischellaneous: 
-Small Group Collaboration in the Large Lecture Setting: Collaborative Process, Pedagogical Paradigms, and Institutional Constraints. 
+###  Mischellaneous: 
+**Small Group Collaboration in the Large Lecture Setting: Collaborative Process, Pedagogical Paradigms, and Institutional Constraints.** 
 https://eric.ed.gov/?id=ED453238 
 
-** A very important article on CSCL roles  (need further reading)**
+**A very important article on CSCL roles  (need further reading)**
 https://www.sciencedirect.com/science/article/pii/S0747563209001368 
-
 
 **A very mathy article on Group Role Assignment**
 Citation: https://ieeexplore.ieee.org/abstract/document/5067511 
