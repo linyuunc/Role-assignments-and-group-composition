@@ -3,9 +3,11 @@
 Citation: 
 * https://reader.elsevier.com/reader/sd/pii/S074756320900137X?token=FD7E9C650ED79E81B218D98C40E206BB708C16BCBA63A325D42A68C4AC0BB6FD326E2E4C0AD04347CDA2A2EE582A876B 
 
-[Role1](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%201%20CSCL%20roles.png)
-[Roles in 3 levels](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%202--%20roles%20in%203%20different%20levels.png)
-[Participative Stances](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%203--%20CSCL%20eight%20participative%20stances.png)
+![Role1](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%201%20CSCL%20roles.png)
+
+![Roles in 3 levels](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%202--%20roles%20in%203%20different%20levels.png)
+
+![Participative Stances](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/role%203--%20CSCL%20eight%20participative%20stances.png)
 
 **1. In Chen et al (2012)**
 
@@ -115,16 +117,17 @@ effects of structured collaboration on average-ability students’ achievement, 
 Citation: https://www.sciencedirect.com/science/article/pii/S0361476X06000233
 
 ###  Mischellaneous: 
-**Small Group Collaboration in the Large Lecture Setting: Collaborative Process, Pedagogical Paradigms, and Institutional Constraints.** 
+
+* **Small Group Collaboration in the Large Lecture Setting: Collaborative Process, Pedagogical Paradigms, and Institutional Constraints.** 
 https://eric.ed.gov/?id=ED453238 
 
-**A very important article on CSCL roles  (need further reading)**
+* **A very important article on CSCL roles  (need further reading)**
 https://www.sciencedirect.com/science/article/pii/S0747563209001368 
 
-**A very mathy article on Group Role Assignment**
+* **A very mathy article on Group Role Assignment**
 Citation: https://ieeexplore.ieee.org/abstract/document/5067511 
 
-**The effect of functional roles on perceived group efficiency during computer-supported collaborative learning: a matter of triangulation** (NEED TO REVISIT)
+* **The effect of functional roles on perceived group efficiency during computer-supported collaborative learning: a matter of triangulation** (NEED TO REVISIT)
 The article is long but touches upon a lot of aspects that we are interested in 
 Citation: https://www.sciencedirect.com/science/article/pii/S0747563204001736 
 
