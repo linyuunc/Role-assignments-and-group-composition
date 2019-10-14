@@ -131,4 +131,19 @@ Citation: https://ieeexplore.ieee.org/abstract/document/5067511
 The article is long but touches upon a lot of aspects that we are interested in 
 Citation: https://www.sciencedirect.com/science/article/pii/S0747563204001736 
 
+# need some notes on Macro-scripts and micro-scripts
+# a script theory of guidance  (SToG) From IHLS Chapter 33
+ the SToG assumes such internal scripts to consist of four partially hierarchical components
+ 
+(1) Play scaffolds structure learning by aid of presenting learners a certain sequence of phases to go through during collaboration.
+(2) Scene scaffolds provide support regarding the different activities that make up a certain scene.
+(3) Scriptlet scaffolds help learners in their enactment of cognitive operations that make up the
+scriptlets.
+(4) Role scaffolds guide learners in their engagement in certain activities that belong to their role.
+
+Play and role scaffolds may thus be seen as similar to “**macro scripts**,” while scene and scriptlet scaf- folds may be considered as **“micro scripts**,” as they provide very specific and fine-grained support on how to engage in certain phases during collaboration (see Dillenbourg & Hong, 2008).
+
+![SToG](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/stoG.png)
+
+
 
