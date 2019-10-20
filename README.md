@@ -1,4 +1,96 @@
-# Role-assignment
+## Update on 10.20.19. (mainly retrived from Chapter 5 of Barkley, Major, and Cross, 2nd edition, 2014)
+# Forming Groups 
+### Group types (informal, formal and base)
+* **Informal** (formed quickly and randomly; used in onsite classes as a break out to a longer class activity)   
+Examples: CoLT 1: Think-Pair-Share and CoLT 25: Round Table, and CoLT 3: Buzz Groups, are intended for informal groups.
+* **Formal** (created to achieve a more complex goal. They may last from one class period to several weeks. usually better to be more thoughtful and intentional regarding group membership)   
+Examples: CoLT 6: Critical Debate, CoLT 15: Case Studies, or CoLT 18: Group Investigation
+* **Base** (ong-term groups that work on a variety of tasks; stay together for the entire term or even the academic year, and their purpose is to offer members support and encouragement as together they achieve an overarching goal)   
+Examples: CoLT24: DialogueJournals—or they may be assigned a series of learning tasks that incorporate a sequence of CoLTs
+* **An example of collaborative base group working process**
+ For example, each base group might first participate in CoLT 2: Round Robin to generate ideas for a semester-long research project. They can then sort the ideas and identify themes in CoLT 19: Affinity Grouping, conduct and write up their research in CoLT 28: Collaborative Process Writing, and then share their findings in CoLT 30: Paper Seminar.
+
+# Group size
+Onsite collaborative groups typically range in size from two to six students.  
+
+**pair**:  Many times pairs work best, especially in quick exchanges such as an interrupted lecture where minimal disruption is desired.  
+
+**three**: Bean (1960) observed that group of three splot into pair and an outsider. 
+For example, groups of two or three might be the only practical arrangement for large-enrollment classes or science or computer laboratory assignments.
+
+**Four**: Bean (1960) observed that group of four tend to divide into pairs
+**Five**: Bean thinks that this is the most effective size. 
+**six**: work almost well, but it increases logistic challenges. 
+
+### Group size discussion from other resources 
+
+# Group membership
+**It can be random, student selected or teacher determined. 
+membership can be bsed on interests, abilities, attitudes and a host of other factors
+groups can be homo and hetero 
+
+* Disadvantage of heterogeneous 
+students uncomfortable; isolate and marginalize minority and women; fewer opportunity for low-achievers to show leadership and not enough contact between high achivers. 
+* Advantages of Homomgeneous
+easy to discuss highly sensitive and personal issues; master most efficiently highly structured skill-building tasks; good for language learning; satisfaction with group learning increases
+* Disadvantage of Homo: 
+Do not experience rich interactions and exchange that occurred in a diverse group of peers
+
+### selecting group members 
+
+random (done by instructor)
+Student selection 
+Instructor determined 
+
+#### Random
+* Free form (instructors walk around classroom and point)
+* Odd-even (odd row turn around to talk to people on even role)
+* Count off (student count 1,2,3 to the number of groups that the teacher wants; breaks up students sitting together)
+* numbered slips of paper
+* playing cards (four aces, kinds, queens) If uneven, one person gets a joker card
+* Create cards 
+* Line up and divide (in order of their birthdays; last names; height and etc)
+* Jigsaw matchups (cut pictures into pieces, and ask students to look for their team members)
+* Text matchups (let students find others who have texts from the same poem/text)
+
+#### Student Selection 
+* Free-form (teacher tells a number; student free selection)
+* Team hiring (identify students who function as employers)
+* The authors tink it is bettert to use random assignment or to assign students to specific groups than allowing students to choose their own groups so students do not feel left-out. 
+
+#### Instructor determined
+* Show of hands (assign students according to their answers to certain questions)
+* student sign-up (pre-determine number of slots that are avilable for each group and first-come, first serve)
+* Single-statement Likert Scale Rating (pose a controversial issue in the field and ask students to choose their positions. This can be done for homo and hetero. Tool: Survery Monkey)
+* Corners (Design a type of interest at each corner of the room. Can be done for homo and hetero)
+* Essay (instructor asks students to write an essay and then instructor evaluates and then form groups; can be homo and hetero. Good for online)
+* Data Sheet (ask students about their information with tech, major, number of courses taken in the major, job related experiences)
+* course-based test scores
+* Discipline-related products (writing sample or painting)
+* College-based achievement ranking
+* Learning styles (visual, auditory, reading/writing; kinesthetic-VARK)
+### Changing group members 
+* Question arises on whether to change membership frequently or rarely. Mnay experienced teachers want to keep groups intact as long as possible. 
+
+(Screencapture: forming groups within various classroom settings)
+
+# Assigning roles to group members 
+(screencapture: common group roles)
+![six common roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20six%20common%20group%20roles.png)
+
+
+# Forming groups in online classes 
+It takes longer for group members to bond, but groups do not need to deal with logistic issues. 
+Group types: better to create base groups 
+Group size: smaller groups of 3 to 5 tend to be more effective for complex projects 
+Group membership: similar to onsite groups; a few tools are Google Hangout, WebEx,Elluminate and Skype.
+
+Group roles: 
+A few new roles that can be good for online discussion: (Barkley, Major and Cross)
+
+![online roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20roles%20for%20online%20group%20work.%20(for%20collaborative%20learning%20strategies).png)
+
+## Role-assignment (Updated 10.14.19)
 # Great article  **Literature review of roles applied in CSCL** 
 Citation: 
 * https://reader.elsevier.com/reader/sd/pii/S074756320900137X?token=FD7E9C650ED79E81B218D98C40E206BB708C16BCBA63A325D42A68C4AC0BB6FD326E2E4C0AD04347CDA2A2EE582A876B 
