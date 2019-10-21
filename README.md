@@ -38,9 +38,9 @@ Do not experience rich interactions and exchange that occurred in a diverse grou
 
 ### selecting group members 
 
-random (done by instructor)
-Student selection 
-Instructor determined 
+* random (done by instructor)
+* Student selection 
+* Instructor determined 
 
 #### Random
 * Free form (instructors walk around classroom and point)
